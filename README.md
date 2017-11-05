@@ -38,8 +38,7 @@ Refer to DataDescription.txt
 
 ### Files for detectors
 
-- Neural Network (standard) - NeuratNetStandardDetector.ipynb
-- Neural Network (auto-assoc) - NeuratNetAutoAssocDetector.ipynb
-- Svm - svm.ipynb
-- KMeans - kmeans.ipynb
-- Other detectors - KeystrokeDynamics.ipynb
+- Mahanlobis Scaled - MahanlobisScaled.ipynb
+- SVM - Svm.ipynb
+- Euclidean - Euclidean.ipynb
+- Mahanlobis - KeystrokeDynamics.ipynb

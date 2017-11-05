@@ -36,9 +36,11 @@ Refer to DataDescription.txt
 | Euclidean Normed               | 0.2107                   | 0.1174                    |
 | Neural Network (standard)      | 0.6551                   | 0.1866                    |
 
+Manhattan (scaled):: zero-miss=0.601 , false-alarm rate =0.337
+
 ### Files for detectors
 
-- Mahanlobis Scaled - MahanlobisScaled.ipynb
-- SVM - Svm.ipynb
+- Manhattan (scaled) - ManhattanScaled.ipynb
+- SVM - SVM.ipynb
 - Euclidean - Euclidean.ipynb
 - Mahanlobis - KeystrokeDynamics.ipynb

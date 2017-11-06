@@ -40,7 +40,7 @@ Manhattan (scaled):: zero-miss=0.601 , false-alarm rate =0.337
 
 ### Files for detectors
 
-- Manhattan (scaled) - ManhattanScaled.ipynb
+- Manhattan (scaled) - Manhattan_Scaled.ipynb
 - SVM - SVM.ipynb
 - Euclidean - Euclidean.ipynb
 - Mahanlobis - KeystrokeDynamics.ipynb
